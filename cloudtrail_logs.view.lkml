@@ -1,5 +1,5 @@
 view: cloudtrail_logs {
-  sql_table_name: aws_optimizer.cloudtrail_logs ;;
+  sql_table_name: default.cloudtrail_logs ;;
   suggestions: no
 
   dimension: additionaleventdata {
